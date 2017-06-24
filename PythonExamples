@@ -1,3 +1,21 @@
 ## Printing Hello World
 
 print("Hello World")
+
+## Conditional Logic
+
+doIReallyEnjoyCodingOnTheWeekends = True
+
+if doIReallyEnjoyCodingOnTheWeekends:
+    print("Of course I love coding on the weekends")
+else:
+    print("I'm sorry, but everyone loves coding on the weekends")
+
+## Strings
+computer = 'Macbook Air'
+print(computer)
+# This is an important example of using posessives
+# and when to use them in programming languages
+print('Michael Doroff\'s Macbook Air')
+
+
